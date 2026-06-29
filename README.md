@@ -51,16 +51,6 @@ ESP32 and RFID-based attendance system integrated with Google Sheets.
 
 ---
 
-## Tech Stack
-
-- Next.js 15
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- GitHub REST API
-
----
-
 ## Contact
 
 📧 Email: **suganth4239@gmail.com**
