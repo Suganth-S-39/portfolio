@@ -1,27 +1,74 @@
-# Suganth S Portfolio
+# Suganth S — Portfolio
 
-Production-focused personal portfolio for Suganth S, built with Next.js 15,
-TypeScript, Tailwind CSS, Framer Motion, Lucide React, and the GitHub REST API.
+A modern, production-ready personal portfolio showcasing my projects, certifications, technical skills, and learning journey in Python, Machine Learning, and Software Engineering.
 
-## Architecture
+🌐 **Live Website:** https://portfolio-suganth-s.vercel.app/
 
-- `app/` contains App Router routes, metadata, sitemap, robots, and global CSS.
-- `components/layout/` contains page chrome such as the header and footer.
-- `components/sections/` contains homepage sections composed from smaller UI.
-- `components/ui/` contains reusable primitives with consistent styling.
-- `content/` stores typed portfolio data separate from presentation.
-- `lib/` stores reusable utilities and GitHub REST API access.
+---
 
-Design system rules are documented in `docs/design-system.md`; runtime tokens
-live in `app/globals.css`.
+## About
 
-## Scripts
+I'm **Suganth S**, a final-year Electronics & Communication Engineering student passionate about building practical software with Python, Machine Learning, SQL, and AI.
 
-```bash
-npm run dev
-npm run build
-npm run lint
-```
+This portfolio serves as my central hub for showcasing projects, certifications, and technical experience while documenting my continuous learning journey.
 
-Set `NEXT_PUBLIC_SITE_URL` in production so canonical URLs, sitemap, robots,
-and social metadata point at the deployed domain.
+**Learning. Building. Improving.**
+
+---
+
+## Featured Projects
+
+### 🧹 Temp Cleaner
+A lightweight Python utility that automates Windows temporary file cleanup for improved system performance.
+
+**Tech:** Python
+
+---
+
+### 🎮 Game Recommendation System
+Python application that recommends video games based on user-selected genres using the RAWG API.
+
+**Tech:** Python • REST API • RAWG API
+
+---
+
+### 📡 RFID Attendance System
+ESP32 and RFID-based attendance system integrated with Google Sheets.
+
+🏆 **Award:** Second Prize in a Mini Project Contest among **140+ teams**.
+
+**Tech:** ESP32 • RFID • Google Sheets • IoT
+
+---
+
+## Certifications
+
+- Microsoft Python Development Professional Certificate
+- Harvard CS50's Introduction to Programming with Python
+- Harvard CS50's Introduction to Databases with SQL
+- NPTEL Cloud Computing
+- NPTEL Industrial Internet of Things
+
+---
+
+## Tech Stack
+
+- Next.js 15
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- GitHub REST API
+
+---
+
+## Contact
+
+📧 Email: **suganth4239@gmail.com**
+
+💼 LinkedIn: **https://linkedin.com/in/suganth--s**
+
+💻 GitHub: **https://github.com/Suganth-S-39**
+
+---
+
+Designed & Built by **Suganth S**
